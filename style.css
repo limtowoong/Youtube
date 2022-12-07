@@ -1,0 +1,11 @@
+:root{
+    --white-color: #ffffff;
+    --balck-color: #000000;
+    --blue-color: #0800ff;
+    --red-color: #ff0000;
+    --grey-dark-color: 909090;
+    --grey-light-color: e0e0e0;
+
+    --side-padding: 12px;
+    --avatar-size: 36px;
+}
